@@ -3,8 +3,7 @@ Scoliosis is a medical condition characterized by abnormal lateral curvature of 
 A Convolutional Neural Network (CNN) classifies spine X-ray images into three different categories: Normal, Scoliosis, and Spondylosis. The model learns from a database of spine X-ray images with a test set accuracy of 81%. The system also utilizes Grad-CAM (gradient-weighted Class Activation Mapping) to provide visual explanations of the model's predictions and align them with human-level interpretation.
 The project is a demonstration of AI working in medical imaging and aims to provide an early detection of scoliosis in a scalable manner. In the future, the aim is to enlarge the dataset, increase the accuracy of the model, and incorporate the system into clinical workflows.
 
-  ![image](https://github.com/user-attachments/assets/ce7006e8-630e-46ae-9c3c-8ee379a98330)" 
-  ![image](https://github.com/user-attachments/assets/d262f5c4-daa9-471f-acfa-1a6ac75b90e4)" 
+  |![image](https://github.com/user-attachments/assets/ce7006e8-630e-46ae-9c3c-8ee379a98330)|![image](https://github.com/user-attachments/assets/d262f5c4-daa9-471f-acfa-1a6ac75b90e4)|
 
 ## 1. The below image Shows the Comparison Between Training and Validation Accuracy:
 ![image](https://github.com/user-attachments/assets/4bb034ea-34d9-4ba5-99f9-b1f5edd17395)
