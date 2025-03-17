@@ -4,7 +4,7 @@ A Convolutional Neural Network (CNN) classifies spine X-ray images into three di
 The project is a demonstration of AI working in medical imaging and aims to provide an early detection of scoliosis in a scalable manner. In the future, the aim is to enlarge the dataset, increase the accuracy of the model, and incorporate the system into clinical workflows.
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ce7006e8-630e-46ae-9c3c-8ee379a98330" height="300" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ce7006e8-630e-46ae-9c3c-8ee379a98330" height="300" width="500"/></td>
     <td><img src="https://github.com/user-attachments/assets/d262f5c4-daa9-471f-acfa-1a6ac75b90e4" height="300"/></td>
   </tr>
 </table>
