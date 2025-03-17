@@ -5,7 +5,7 @@ The project is a demonstration of AI working in medical imaging and aims to prov
 
 <p align="center">
   <img src="![image](https://github.com/user-attachments/assets/ce7006e8-630e-46ae-9c3c-8ee379a98330)" width="45%">
-  <img src="![image](https://github.com/user-attachments/assets/127df929-2e40-4922-9c5c-3b4f6c98a283)" width="45%">
+  <img src="![image](https://github.com/user-attachments/assets/d262f5c4-daa9-471f-acfa-1a6ac75b90e4)" width="45%">
 </p>
 
 ## 1. The below image Shows the Comparison Between Training and Validation Accuracy:
