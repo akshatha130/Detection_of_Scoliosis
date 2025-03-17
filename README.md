@@ -5,8 +5,8 @@ The project is a demonstration of AI working in medical imaging and aims to prov
 
 ![image](https://github.com/user-attachments/assets/ce7006e8-630e-46ae-9c3c-8ee379a98330)![Screenshot 2025-03-07 230409](https://github.com/user-attachments/assets/127df929-2e40-4922-9c5c-3b4f6c98a283)
 
-#1. The below image Shows the Comparison Between Training and Validation Accuracy:
+## 1. The below image Shows the Comparison Between Training and Validation Accuracy:
 ![image](https://github.com/user-attachments/assets/4bb034ea-34d9-4ba5-99f9-b1f5edd17395)
-#1. Grade-Cam-Visulation:
+## 2. Grade-Cam-Visulation:
 ![image](https://github.com/user-attachments/assets/f588f5ef-7752-4577-b85e-72b9e89b9368)
 
