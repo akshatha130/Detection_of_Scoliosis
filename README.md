@@ -10,5 +10,5 @@ The project is a demonstration of AI working in medical imaging and aims to prov
 <img src="https://github.com/user-attachments/assets/4bb034ea-34d9-4ba5-99f9-b1f5edd17395" height="310" width="515"/>
 
 ## 2. Grade-Cam-Visulation:
-![image](https://github.com/user-attachments/assets/f588f5ef-7752-4577-b85e-72b9e89b9368)
+<img src="https://github.com/user-attachments/assets/f588f5ef-7752-4577-b85e-72b9e89b9368" height="310" width="515"/>
 
