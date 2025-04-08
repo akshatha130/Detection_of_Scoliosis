@@ -17,12 +17,10 @@ The project is a demonstration of AI working in medical imaging and aims to prov
 
 ## 🚀 How to run it on your own machine
 
-### 1. Clone the repository
+### 1. Install the requirements
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-
+pip install -r requirements.txt
 ```
 <img src = "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="50" width="100">
 
