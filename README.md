@@ -24,4 +24,5 @@ git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
 ```
-![Streamlit Logo](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png)
+<img src = "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="32" width="32">
+
