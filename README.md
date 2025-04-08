@@ -22,5 +22,8 @@ The project is a demonstration of AI working in medical imaging and aims to prov
 ```bash
 pip install -r requirements.txt
 ```
+### 2. 
+
 <img src = "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="50" width="100">
+
 
