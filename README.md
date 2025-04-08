@@ -24,4 +24,4 @@ git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
 ```
-!(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)<!-- Optional Streamlit badge -->
+(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)<!-- Optional Streamlit badge -->
