@@ -24,6 +24,8 @@ pip install -r requirements.txt
 ```
 ### 2. Before running the app, you need to train the model
 
+Run the project.ipynb file 
+
 ### 3. Run the Streamlit app <img src = "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" margin-top="20" height="50" width="100">
 ```bash
 streamlit run app.py
