@@ -23,9 +23,7 @@ The project is a demonstration of AI working in medical imaging and aims to prov
 pip install -r requirements.txt
 ```
 ### 2. Before running the app, you need to train the model
-```bash
-python train.py
-```
+
 ### 3. Run the Streamlit app <img src = "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="50" width="100">
 ```bash
 streamlit run app.py
