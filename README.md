@@ -13,8 +13,6 @@ The project is a demonstration of AI working in medical imaging and aims to prov
 <img src="https://github.com/user-attachments/assets/f588f5ef-7752-4577-b85e-72b9e89b9368" height="360" width="515"/>
 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/) <!-- Optional Streamlit badge -->
-
 ---
 
 ## 🚀 How to run it on your own machine
@@ -25,4 +23,5 @@ The project is a demonstration of AI working in medical imaging and aims to prov
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
-
+```
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)] <!-- Optional Streamlit badge -->
